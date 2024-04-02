@@ -1,0 +1,14 @@
+name: sc3000
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - notebook
+  - matplotlib
+  - seaborn
+  - tensorflow
+  - pyvirtualdisplay
+  - moviepy
+  - gym
+  - gym-classic_control
