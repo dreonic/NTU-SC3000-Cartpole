@@ -1,3 +1,3 @@
-# Balancing a Pole on a Cart: Tutorial and Sample code.
+# Balancing a Pole on a Cart
 
-To run the sample code, open the ipynb file in your browser and click "Open in Colab".
+To run the code, open the ipynb file in your browser and click "Open in Colab".
